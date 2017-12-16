@@ -2,6 +2,7 @@
 
 Let's try to use the static site generator for React - [Gatsby](https://www.gatsbyjs.org) together with the Bootstrap 4 React components from [reactstrap](https://reactstrap.github.io). To get started, I want to reproduce one of the official examples from [getbootstrap.com](http://getbootstrap.com/docs/4.0/examples/album/).
 
+![Gatsby-reactstrap](./_gatsby-reactstrap_01.png)
 
 ## Install Gatsby's command line tool
 

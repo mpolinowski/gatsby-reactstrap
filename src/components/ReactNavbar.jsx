@@ -30,10 +30,8 @@ export default class ReactNavbar extends React.Component {
   render() {
     return <div>
         <Navbar color="dark" light>
-          <NavbarBrand className="mr-auto">
-            <Link to="/">
-              <img src="/static/instar-logo-s.png" />
-            </Link>
+          <NavbarBrand to="/" className="mr-auto">
+            <img src="/static/instar-logo-s.png" />
           </NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>
