@@ -6,7 +6,7 @@ import Helmet from 'react-helmet'
 import './index.css'
 
 // require('bootstrap');
-import 'bootstrap/dist/css/bootstrap.css'
+import './bootstrap.min.css';
 import ReactNavbar from '../components/ReactNavbar'
 import FluidJumbotron from "../components/FluidJumbotron";
 
