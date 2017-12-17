@@ -31,7 +31,7 @@ export default class ReactNavbar extends React.Component {
     return <div>
         <Navbar color="dark" light>
           <NavbarBrand to="/" className="mr-auto">
-            <img src="/static/instar-logo-s.png" />
+            <img src="http://via.placeholder.com/192x50" />
           </NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>

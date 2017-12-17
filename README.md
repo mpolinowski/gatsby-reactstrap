@@ -176,7 +176,7 @@ app.use(compression());
 
 app.use(express.static("public"));
 
-app.listen(8888, () => console.log("gatsby-reactstrap listening on port 8888!"));
+app.listen(8888, () => console.log("gatsby-reactstrap listening on http://localhost:8888"));
 ```
 
 Now add a start script to your _./package.json_ file to allow you to start your server by typing __npm start__:
