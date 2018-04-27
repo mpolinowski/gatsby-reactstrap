@@ -4,15 +4,18 @@
   "version": "1.0.0",
   "author": "Mike Polinowski",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.1.0",
     "compression": "^1.7.2",
-    "express": "^4.16.2",
-    "gatsby": "1.9.216",
-    "gatsby-link": "^1.6.37",
-    "gatsby-plugin-react-helmet": "^2.0.5",
+    "express": "^4.16.3",
+    "gatsby": "^1.9.255",
+    "gatsby-link": "^1.6.41",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-react-next": "^1.0.11",
+    "hoek": "^5.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
     "react-helmet": "^5.2.0",
-    "react-popper": "^0.8.2",
-    "reactstrap": "^5.0.0-beta.2"
+    "reactstrap": "^5.0.0"
   },
   "keywords": [
     "gatsby"
@@ -27,6 +30,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.11.0"
+    "prettier": "^1.12.1"
   }
 }
