@@ -11,11 +11,11 @@
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-react-next": "^1.0.11",
-    "hoek": "^5.0.4",
+    "hoek": "^6.1.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0",
-    "reactstrap": "^5.0.0"
+    "reactstrap": "^7.0.2"
   },
   "keywords": [
     "gatsby"
